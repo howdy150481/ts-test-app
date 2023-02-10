@@ -1,1 +1,4 @@
-console.log("Hallo Mooh");
+import { uuid } from './snippets/uuid'
+console.log(uuid());
+
+ 
